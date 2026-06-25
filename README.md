@@ -1,26 +1,42 @@
-# 🚀 JAIR VC — Full Stack Developer
+# 🚀 JAIR VC — GOD MODE DEVELOPER
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,25:00D9FF,50:8A2BE2,75:FF6B35,100:FFB000&text=JAIR_VC&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Mobile%20Engineer%20•%20Creative%20Coder&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,25:302b63,50:24243e,75:00F5FF,100:8A2BE2&text=JAIR%20VC%20⚡%20GOD%20MODE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Backend%20Engineer&descAlignY=58"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Frontend+%7C+Backend+%7C+Mobile+Developer;React+•+Flutter+•+FastAPI+•+Node.js;Building+scalable+and+modern+systems;Always+learning+new+tech+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=Building+scalable+systems+⚙️;React+•+FastAPI+•+Flutter+•+Node.js;Turning+ideas+into+production+apps;Backend+%7C+Mobile+%7C+Architecture+%7C+APIs;Always+deploying+something+new+🚀" />
 </p>
 
 ---
 
-# 🧠 About Me
+# 🧠 ABOUT ME
 
-💻 Full Stack Developer enfocado en crear sistemas escalables  
-📱 Mobile developer con Flutter y React Native  
-⚙️ Backend con FastAPI y Node.js  
-🧩 Me gusta construir arquitectura limpia y APIs eficientes  
-🔥 Fan de automatización, sistemas y performance  
+💻 Full Stack Engineer & System Architect  
+📱 Mobile Developer (Flutter / React Native)  
+⚙️ Backend Engineer (FastAPI / Node.js / Express)  
+🧩 Clean Architecture + scalable systems  
+🔥 Automation, performance & APIs  
 
 ---
 
-# 🧬 Tech Stack
+# 🎧 NOW PLAYING (SPOTIFY)
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2246wmtbt6ln7vokssypfrgoi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00F5FF&bar_color_cover=false" />
+</p>
+
+---
+
+# 💻 TERMINAL MODE
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF00&center=true&vCenter=true&width=850&lines=$+whoami;Jair+V%C3%A1zquez+Cordero;Full-Stack+Developer;System+Architect;;$+skills;React,+FastAPI,+Flutter,+Node.js,+MySQL;;$+status;Building+scalable+systems...;Deploying+production+apps...;Always+learning+new+tech+🚀" />
+</p>
+
+---
+
+# 🧬 TECH STACK
 
 ## 🧠 Languages
 <p align="center">
@@ -37,14 +53,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
 ---
 
-## 📱 Mobile
+## 📱 MOBILE
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -52,33 +68,36 @@
 
 ---
 
-## 🧰 Tools & DevOps
+# 📊 GITHUB STATS
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JairTotis13&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTotis13&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 ACTIVITY GRAPH
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JairTotis13&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTotis13&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JairTotis13&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-# ⚡ Current Focus
-- Arquitectura backend escalable  
-- Apps híbridas móviles  
-- APIs con FastAPI  
-- Automatización de sistemas  
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-<p align="center">
-  🚀 Code • Build • Deploy • Repeat
-</p>
+# 🚀 CURRENT FOCUS
+
+```txt
+⚙️ Backend scalable architecture
+📱 Cross-platform mobile apps
+🧩 API design & systems
+🤖 Automation & tooling
+☁️ Deployment & scalability
