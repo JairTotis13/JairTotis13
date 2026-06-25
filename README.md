@@ -13,12 +13,6 @@ A brief description of what this project does and who it's for
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/JairVaz13?style=for-the-badge&logo=github&color=00F5FF&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/stars/JairVaz13?style=for-the-badge&logo=github&color=8A2BE2&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=JairVaz13&style=for-the-badge&color=FF6B35"/>
-
-</div>
-
 ---
 
 # 🧠 About Me
@@ -35,7 +29,7 @@ A brief description of what this project does and who it's for
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/Kokin-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
