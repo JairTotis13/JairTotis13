@@ -1,125 +1,84 @@
+# 🚀 JAIR VC — Full Stack Developer
 
-# Project Title
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,25:00D9FF,50:8A2BE2,75:FF6B35,100:FFB000&text=JAIR_VC&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Mobile%20Engineer%20•%20Creative%20Coder&descAlignY=58"/>
+</p>
 
-A brief description of what this project does and who it's for
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,25:00D9FF,50:8A2BE2,75:FF6B35,100:FFB000&text=JAIR_VC&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Creative%20Coder%20•%20Tech%20Enthusiast&descAlignY=58"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=900&lines=💻+Frontend+%7C+Backend+%7C+Mobile+Developer;⚡+React+•+Python+•+Flutter+•+MySQL;🚀+Creating+modern+and+creative+projects;🔥+Always+learning+new+technologies;🎧+Coding+with+music+and+coffee" />
-
-<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Frontend+%7C+Backend+%7C+Mobile+Developer;React+•+Flutter+•+FastAPI+•+Node.js;Building+scalable+and+modern+systems;Always+learning+new+tech+%F0%9F%9A%80" />
+</p>
 
 ---
 
 # 🧠 About Me
 
-<div align="center">
+💻 Full Stack Developer enfocado en crear sistemas escalables  
+📱 Mobile developer con Flutter y React Native  
+⚙️ Backend con FastAPI y Node.js  
+🧩 Me gusta construir arquitectura limpia y APIs eficientes  
+🔥 Fan de automatización, sistemas y performance  
 
-<table>
-<tr>
-<td width="50%">
+---
 
+# 🧬 Tech Stack
 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Languages
-
+## 🧠 Languages
 <p align="center">
-  
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 </p>
-<br><br>
 
-## 🚀 Frameworks & Libraries
+---
 
+## ⚙️ Backend & Frontend
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+---
+
+## 📱 Mobile
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
 </p>
-<br><br>
 
-## 🎨 Front-End Development
+---
 
+## 🧰 Tools & DevOps
 <p align="center">
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</p>
-<br><br>
-
-## ☁️ Cloud & Hosting
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-</p>
-<br><br>
-
-## 🛠️ Software & Tools
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
 </p>
-<br><br>
 
-## ⚡ Extras
+---
+
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JairTotis13&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTotis13&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+# ⚡ Current Focus
+- Arquitectura backend escalable  
+- Apps híbridas móviles  
+- APIs con FastAPI  
+- Automatización de sistemas  
+
+---
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Image%20Recognition-5C2D91?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
-
+  🚀 Code • Build • Deploy • Repeat
 </p>
-<br><br>
-   
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F5FF,25:00D9FF,50:8A2BE2,75:FF6B35,100:FFB000"/>
-
-# 🚀 Code • Create • Innovate
-
-### 💫 Thanks for visiting my profile
-
-</div>
