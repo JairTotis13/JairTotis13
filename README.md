@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,25:00D9FF,50:8A2BE2,75:FF6B35,100:FFB000&text=JAIR_VC&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Creative%20Coder%20•%20Tech%20Enthusiast&descAlignY=58"/>
@@ -24,53 +29,13 @@
 <tr>
 <td width="50%">
 
-```ts
-const JairVC = {
-  name: "Jair Vázquez",
-  location: "México 🇲🇽",
-  role: "Full-Stack Developer",
-  
-  languages: [
-    "JavaScript",
-    "Python",
-    "Dart"
-  ],
 
-  passions: [
-    "Web Development",
-    "Mobile Apps",
-    "UI/UX Design",
-    "Automation"
-  ],
-
-  currentlyLearning: [
-    "Advanced React",
-    "APIs",
-    "Cloud Computing"
-  ],
-
-  lifePhilosophy:
-   "Build. Learn. Repeat. 🚀"
-};
-```
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JairVaz13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2&text_color=ffffff"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Languages
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kokin-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
